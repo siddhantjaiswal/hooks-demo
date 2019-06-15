@@ -28,5 +28,4 @@ HooksExpample.propTypes = {
   commentsLoading: PropTypes.bool.isRequired,
 };
 
-
 export default HooksExpample;
